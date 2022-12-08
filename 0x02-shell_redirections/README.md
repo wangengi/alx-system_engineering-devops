@@ -1,1 +1,1 @@
-script that displays a confused smiley
+Task 2. Let's display a file
